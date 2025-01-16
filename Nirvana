@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nirvana - О группе</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+            <li><a href="discography.html">Дискография</a></li>
+            <li><a href="about.html" class="active">О группе</a></li>
+        </ul>
+    </nav>
+
+    <header class="sub-hero">
+        <h1>О группе Nirvana</h1>
+    </header>
+
+    <main>
+        <section class="about-content">
+            <div class="band-info">
+                <h2>Группа</h2>
+                <p>Nirvana была американской рок-группой, основанной в Абердине, штат Вашингтон, в 1987 году. Основанная вокалистом и гитаристом Куртом Кобейном и басистом Кристом Новоселичем, группа прошла через несколько барабанщиков, прежде чем в 1990 году к ним присоединился Дэйв Грол.</p>
+                <p>Успех Nirvana популяризировал альтернативный рок, и они часто упоминались как ведущая группа поколения X. Их музыка сохраняет популярность и продолжает влиять на современную рок-культуру.</p>
+            </div>
+
+            <div class="members">
+                <h2>Участники группы</h2>
+                <ul class="member-list">
+                    <li>
+                        <h3>Курт Кобейн</h3>
+                        <p>Вокал, гитара</p>
+                    </li>
+                    <li>
+                        <h3>Крист Новоселич</h3>
+                        <p>Бас-гитара</p>
+                    </li>
+                    <li>
+                        <h3>Дэйв Грол</h3>
+                        <p>Ударные</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Nirvana. Все права защищены.</p>
+    </footer>
+</body>
+</html>
